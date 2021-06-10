@@ -1,0 +1,12 @@
+Char file made by: Kait Alk
+Recompiled into a working merged char by XYZ for OLE server.
+
+Def Apollo sprites from: the original game lol
+
+2d Apollo Wit sprites from: https://www.forums.court-records.net/viewtopic.php?f=12&t=30702&start=40
+
+Perceive emotes from: GSK Bladez
+
+Apollo co sprites (Confident/Disappointed/Thinking) from: https://forums.court-records.net/viewtopic.php?f=12&t=28186&start=80
+
+The rest of the custom sprites were ripped from here and recolored red by me (Kait): https://imgur.com/a/dM299
