@@ -1,0 +1,3 @@
+Model set up, animated, and ripped by Daryll
+
+Big thanks to Ploaj and Elias for their roles in parsing the file formats and converting them to 3DS Max respectively!
