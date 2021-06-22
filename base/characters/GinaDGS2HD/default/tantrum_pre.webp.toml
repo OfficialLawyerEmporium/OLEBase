@@ -1,0 +1,5 @@
+[frames]
+[frames.21]
+tags = [
+{name="so", data={sound_file="sfx-explosion-dd.wav"}}, 
+]
