@@ -1,3 +1,2 @@
-127.0.0.1:27016:Servidor Local 1
-127.0.0.1:27017:Servidor Local 2
-107.161.31.200:27055:Advocacia Geral [Brasil]
+127.0.0.1:27016:Default local server
+89.33.6.108:27016:「Official Law Empire」
