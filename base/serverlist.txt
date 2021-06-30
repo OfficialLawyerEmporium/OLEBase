@@ -1,2 +1,0 @@
-127.0.0.1:27016:Default local server
-89.33.6.108:27016:「Official Law Empire」
