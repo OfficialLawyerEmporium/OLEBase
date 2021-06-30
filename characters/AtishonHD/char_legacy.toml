@@ -1,0 +1,244 @@
+[[scenario]]
+emote_anim_file = "stand_closed_from_empty"
+display_icon = "button1_off"
+emote_file = "stand_closed"
+display_name = "CarriageClosed"
+
+[[scenario]]
+emote_anim_file = "stand_normal_from_stand_closed"
+display_icon = "button2_off"
+emote_file = "stand_normal"
+display_name = "CarriageNormal"
+
+[[scenario]]
+emote_file = "stand_normal"
+display_icon = "button3_off"
+display_name = "CarriageNormalFull"
+emote_anim_file = "stand_normal_from_empty"
+rules = {play_anim=true}
+
+[[scenario]]
+emote_file = "stand_closed"
+display_icon = "button4_off"
+display_name = "CarriageCloseShades"
+emote_anim_file = "stand_closed_from_normal"
+rules = {play_anim=true}
+
+[[scenario]]
+display_icon = "button5_off"
+emote_file = "stand_relaxed"
+display_name = "CarriageBobbing"
+
+[[scenario]]
+display_icon = "button6_off"
+emote_file = "stand_speech"
+display_name = "CarriageSpeech"
+
+[[scenario]]
+display_icon = "button7_off"
+emote_file = "stand_wave"
+display_name = "CarriageWave"
+
+[[scenario]]
+display_icon = "button8_off"
+emote_file = "stand_annoyed"
+display_name = "CarriageAnnoyed"
+
+[[scenario]]
+emote_anim_file = "normal_from_empty"
+display_icon = "button9_off"
+emote_file = "normal"
+display_name = "Normal"
+
+[[scenario]]
+emote_file = "empty"
+display_icon = "button10_off"
+display_name = "Exit"
+emote_anim_file = "exit_from_normal"
+rules = {play_anim=true}
+
+[[scenario]]
+display_icon = "button11_off"
+emote_file = "speech"
+display_name = "Speech"
+
+[[scenario]]
+emote_file = "clean"
+display_icon = "button12_off"
+display_name = "Clean"
+emote_anim_file = "clean_from_normal_one"
+
+[[scenario]]
+emote_anim_file = "clean2_from_clean"
+display_icon = "button13_off"
+emote_file = "clean2"
+display_name = "Abe"
+rules = {play_anim=true}
+
+[[scenario]]
+emote_file = "clean2"
+display_icon = "button14_off"
+display_name = "CleanFull"
+emote_anim_file = "clean_from_normal_two"
+rules = {play_anim=true}
+
+[[scenario]]
+display_icon = "button15_off"
+emote_file = "snooze"
+display_name = "Sleeping"
+
+[[scenario]]
+emote_anim_file = "thinking_from_snooze"
+display_icon = "button16_off"
+emote_file = "thinking"
+display_name = "Drowsey"
+
+[[scenario]]
+emote_anim_file = "shock_from_normal"
+display_icon = "button17_off"
+emote_file = "shock"
+display_name = "Shocked"
+
+[[scenario]]
+emote_file = "p1_normal"
+display_icon = "button18_off"
+display_name = "Fix"
+emote_anim_file = "normal_from_p0"
+rules = {play_anim=true}
+
+[[scenario]]
+emote_anim_file = "p1_normal_from_empty"
+display_icon = "button19_off"
+emote_file = "p1_normal"
+display_name = "Normal2"
+
+[[scenario]]
+emote_file = "empty"
+display_icon = "button20_off"
+display_name = "Exit2"
+emote_anim_file = "exit_from_p1_normal"
+rules = {play_anim=true}
+
+[[scenario]]
+display_icon = "button21_off"
+emote_file = "p1_speech"
+display_name = "Speech2"
+
+[[scenario]]
+emote_file = "p1_clean"
+display_icon = "button22_off"
+display_name = "Clean2"
+emote_anim_file = "p1_clean_from_normal"
+
+[[scenario]]
+display_icon = "button23_off"
+emote_file = "p1_snooze"
+display_name = "Sleeping2"
+
+[[scenario]]
+emote_anim_file = "p1_thinking_from_snooze"
+display_icon = "button24_off"
+emote_file = "p1_thinking"
+display_name = "Drowsey2"
+
+[[scenario]]
+emote_anim_file = "p1_shock_from_p1_normal"
+display_icon = "button25_off"
+emote_file = "p1_shock"
+display_name = "Shocked2"
+
+[[scenario]]
+emote_file = "p2_normal"
+display_icon = "button26_off"
+display_name = "Fix2"
+emote_anim_file = "p2_normal_from_p1_shock"
+rules = {play_anim=true}
+
+[[scenario]]
+emote_anim_file = "p2_normal_from_empty"
+display_icon = "button27_off"
+emote_file = "p2_normal"
+display_name = "Normal3"
+
+[[scenario]]
+emote_file = "empty"
+display_icon = "button28_off"
+display_name = "Exit3"
+emote_anim_file = "exit_from_p2_normal"
+rules = {play_anim=true}
+
+[[scenario]]
+display_icon = "button29_off"
+emote_file = "p2_speech"
+display_name = "Speech3"
+
+[[scenario]]
+emote_file = "p2_clean"
+display_icon = "button30_off"
+display_name = "Clean3"
+emote_anim_file = "p2_clean_from_normal"
+
+[[scenario]]
+display_icon = "button31_off"
+emote_file = "p2_snooze"
+display_name = "Sleeping3"
+
+[[scenario]]
+emote_anim_file = "p2_thinking_from_snooze"
+display_icon = "button32_off"
+emote_file = "p2_thinking"
+display_name = "Drowsey3"
+
+[[scenario]]
+emote_anim_file = "p2_shock_from_p2_normal"
+display_icon = "button33_off"
+emote_file = "p2_shock"
+display_name = "Shocked3"
+
+[[scenario]]
+emote_file = "p3_normal"
+display_icon = "button34_off"
+display_name = "Fix3"
+emote_anim_file = "p3_normal_from_p2_shock"
+rules = {play_anim=true}
+
+[[scenario]]
+emote_anim_file = "p3_normal_from_empty"
+display_icon = "button35_off"
+emote_file = "p3_normal"
+display_name = "Normal4"
+
+[[scenario]]
+emote_file = "empty"
+display_icon = "button36_off"
+display_name = "Exit4"
+emote_anim_file = "exit_from_p3_normal"
+rules = {play_anim=true}
+
+[[scenario]]
+display_icon = "button37_off"
+emote_file = "p3_speech"
+display_name = "Speech4"
+
+[[scenario]]
+emote_file = "p3_clean"
+display_icon = "button38_off"
+display_name = "Clean4"
+emote_anim_file = "p3_clean_from_normal"
+
+[[scenario]]
+display_icon = "button39_off"
+emote_file = "p3_snooze"
+display_name = "Sleeping4"
+
+[[scenario]]
+emote_anim_file = "p3_thinking_from_snooze"
+display_icon = "button40_off"
+emote_file = "p3_thinking"
+display_name = "Drowsey4"
+
+[[scenario]]
+emote_anim_file = "p3_shock_from_p3_normal"
+display_icon = "button41_off"
+emote_file = "p3_shock"
+display_name = "Shocked4"

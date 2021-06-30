@@ -1,0 +1,35 @@
+[frames]
+[frames.66]
+tags = [
+{name="so", data={sound_file="Paul/palanquin/footsteps/out/step2.wav"}}, 
+]
+[frames.117]
+tags = [
+{name="so", data={sound_file="Paul/palanquin/footsteps/out/step5.wav"}}, 
+]
+
+[frames.100]
+tags = [
+{name="so", data={sound_file="Paul/palanquin/footsteps/out/step4.wav"}}, 
+]
+
+[frames.14]
+tags = [
+{name="so", data={sound_file="Paul/palanquin/pick-up.wav"}}, 
+]
+
+[frames.83]
+tags = [
+{name="so", data={sound_file="Paul/palanquin/footsteps/out/step3.wav"}}, 
+]
+
+[frames.49]
+tags = [
+{name="so", data={sound_file="Paul/palanquin/footsteps/out/step1.wav"}}, 
+]
+
+[frames.134]
+tags = [
+{name="so", data={sound_file="Paul/palanquin/footsteps/out/step6.wav"}}, 
+]
+

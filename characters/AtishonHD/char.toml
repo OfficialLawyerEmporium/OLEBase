@@ -1,0 +1,278 @@
+[[scenario]]
+display_icon = "palanquin/closed"
+emote_anim_file = "palanquin/closed_pre_exit"
+emote_file = "/palanquin/closed"
+display_name = "Closed"
+
+[[scenario]]
+display_icon = "palanquin/smirk"
+emote_anim_file = "palanquin/smirk_pre_closed"
+emote_file = "/palanquin/smirk"
+display_name = "Smirk"
+
+[[scenario]]
+display_icon = "palanquin/relax"
+emote_file = "/palanquin/relax"
+display_name = "Relax"
+
+[[scenario]]
+display_icon = "palanquin/speech"
+emote_file = "/palanquin/speech"
+display_name = "Speech"
+
+[[scenario]]
+display_icon = "palanquin/wave"
+emote_file = "/palanquin/wave"
+display_name = "Wave"
+
+[[scenario]]
+display_icon = "palanquin/annoyed"
+emote_file = "/palanquin/annoyed"
+display_name = "Annoyed"
+
+[[scenario]]
+display_icon = "palanquin/closed-smirk"
+emote_anim_file = "palanquin/closed_pre_smirk"
+emote_file = "/palanquin/closed"
+display_name = "ClosedFS"
+rules = {play_anim=true}
+
+[[scenario]]
+display_icon = "palanquin/exit"
+emote_anim_file = "palanquin/exit_pre_closed"
+emote_file = "invisible"
+display_name = "ExitFC"
+rules = {play_anim=true, hide_dialog_emote=true}
+
+[[scenario]]
+display_icon = "normal1"
+emote_anim_file = "default/normal1_pre_exit"
+emote_file = "/normal"
+display_name = "Normal1"
+overlay_name = "paul"
+overlay_preset_name = "plaque1idle"
+
+[[scenario]]
+display_icon = "exit1"
+emote_anim_file = "default/exit1_pre"
+emote_file = "invisible"
+display_name = "Exit1"
+rules = {play_anim=true, hide_dialog_emote=true}
+
+[[scenario]]
+display_icon = "lean1"
+emote_file = "/lean"
+display_name = "Lean1"
+overlay_name = "paul"
+overlay_preset_name = "plaque1"
+
+[[scenario]]
+display_icon = "clean1"
+emote_anim_file = "default/clean1_pre"
+emote_file = "/clean1"
+display_name = "Clean1"
+
+[[scenario]]
+display_icon = "clean-abe"
+emote_anim_file = "default/clean-abe_pre_clean1"
+emote_file = "/clean-abe"
+display_name = "CleanAbe"
+
+[[scenario]]
+display_icon = "snooze1"
+emote_file = "/snooze"
+display_name = "Snooze1"
+overlay_name = "paul"
+overlay_preset_name = "plaque1"
+
+[[scenario]]
+display_icon = "nod1"
+emote_anim_file = "default/nod_pre_snooze"
+emote_file = "/nod"
+display_name = "Nod1"
+overlay_name = "paul"
+overlay_preset_name = "plaque1"
+
+[[scenario]]
+display_icon = "damage1"
+emote_anim_file = "default/damage1_pre"
+emote_file = "/damage1"
+display_name = "Damage1"
+
+[[scenario]]
+display_icon = "damage1fix"
+emote_anim_file = "default/normal2_pre_damage1"
+emote_file = "/normal"
+display_name = "Fix1"
+overlay_name = "paul"
+overlay_preset_name = "plaque2idle"
+
+[[scenario]]
+display_icon = "normal2"
+emote_anim_file = "default/normal2_pre_exit"
+emote_file = "/normal"
+display_name = "Normal2"
+overlay_name = "paul"
+overlay_preset_name = "plaque2idle"
+
+[[scenario]]
+display_icon = "exit2"
+emote_anim_file = "default/exit2_pre"
+emote_file = "invisible"
+display_name = "Exit2"
+rules = {play_anim=true, hide_dialog_emote=true}
+
+[[scenario]]
+display_icon = "lean2"
+emote_file = "/lean"
+display_name = "Lean2"
+overlay_name = "paul"
+overlay_preset_name = "plaque2"
+
+[[scenario]]
+display_icon = "clean2"
+emote_anim_file = "default/clean2_pre"
+emote_file = "/clean2"
+display_name = "Clean2"
+
+[[scenario]]
+display_icon = "snooze2"
+emote_file = "/snooze"
+display_name = "Snooze2"
+overlay_name = "paul"
+overlay_preset_name = "plaque2"
+
+[[scenario]]
+display_icon = "nod2"
+emote_anim_file = "default/nod_pre_snooze"
+emote_file = "/nod"
+display_name = "Nod2"
+overlay_name = "paul"
+overlay_preset_name = "plaque2"
+
+[[scenario]]
+display_icon = "damage2"
+emote_anim_file = "default/damage2_pre"
+emote_file = "/damage2"
+display_name = "Damage2"
+
+[[scenario]]
+display_icon = "damage2fix"
+emote_anim_file = "default/normal3_pre_damage2"
+emote_file = "/normal"
+display_name = "Fix2"
+overlay_name = "paul"
+overlay_preset_name = "plaque3idle"
+
+[[scenario]]
+display_icon = "normal3"
+emote_anim_file = "default/normal3_pre_exit"
+emote_file = "/normal"
+display_name = "Normal3"
+overlay_name = "paul"
+overlay_preset_name = "plaque3idle"
+
+[[scenario]]
+display_icon = "exit3"
+emote_anim_file = "default/exit3_pre"
+emote_file = "invisible"
+display_name = "Exit3"
+rules = {play_anim=true, hide_dialog_emote=true}
+
+[[scenario]]
+display_icon = "lean3"
+emote_file = "/lean"
+display_name = "Lean3"
+overlay_name = "paul"
+overlay_preset_name = "plaque3"
+
+[[scenario]]
+display_icon = "clean3"
+emote_anim_file = "default/clean3_pre"
+emote_file = "/clean3"
+display_name = "Clean3"
+
+[[scenario]]
+display_icon = "snooze3"
+emote_file = "/snooze"
+display_name = "Snooze3"
+overlay_name = "paul"
+overlay_preset_name = "plaque3"
+
+[[scenario]]
+display_icon = "nod3"
+emote_anim_file = "default/nod_pre_snooze"
+emote_file = "/nod"
+display_name = "Nod3"
+overlay_name = "paul"
+overlay_preset_name = "plaque3"
+
+[[scenario]]
+display_icon = "damage3"
+emote_anim_file = "default/damage3_pre"
+emote_file = "/damage3"
+display_name = "Damage3"
+
+[[scenario]]
+display_icon = "damage3fix"
+emote_anim_file = "default/normal4_pre_damage3"
+emote_file = "/normal"
+display_name = "Fix3"
+overlay_name = "paul"
+overlay_preset_name = "plaque4idle"
+
+[[scenario]]
+display_icon = "normal4"
+emote_anim_file = "default/normal4_pre_exit"
+emote_file = "/normal"
+display_name = "Normal4"
+overlay_name = "paul"
+overlay_preset_name = "plaque4idle"
+
+[[scenario]]
+display_icon = "exit4"
+emote_anim_file = "default/exit4_pre"
+emote_file = "invisible"
+display_name = "Exit4"
+rules = {play_anim=true, hide_dialog_emote=true}
+
+[[scenario]]
+display_icon = "lean4"
+emote_file = "/lean"
+display_name = "Lean4"
+overlay_name = "paul"
+overlay_preset_name = "plaque4"
+
+[[scenario]]
+display_icon = "clean4"
+emote_anim_file = "default/clean4_pre"
+emote_file = "/clean4"
+display_name = "Clean4"
+
+[[scenario]]
+display_icon = "snooze4"
+emote_file = "/snooze"
+display_name = "Snooze4"
+overlay_name = "paul"
+overlay_preset_name = "plaque4"
+
+[[scenario]]
+display_icon = "nod4"
+emote_anim_file = "default/nod_pre_snooze"
+emote_file = "/nod"
+display_name = "Nod4"
+overlay_name = "paul"
+overlay_preset_name = "plaque4"
+
+[[scenario]]
+display_icon = "damage4"
+emote_anim_file = "default/damage4_pre"
+emote_file = "/damage4"
+display_name = "Damage4"
+
+[[scenario]]
+display_icon = "breakdown"
+emote_anim_file = "default/breakdown_pre_damage4"
+emote_file = "/breakdown"
+display_name = "Breakdown"
+rules = {play_anim=true}

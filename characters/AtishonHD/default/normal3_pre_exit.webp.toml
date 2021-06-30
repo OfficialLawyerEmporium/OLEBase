@@ -1,0 +1,25 @@
+[frames]
+[frames.69]
+tags = [
+{name="so", data={sound_file="Paul/back2.wav"}}, 
+]
+[frames.51]
+tags = [
+{name="so", data={sound_file="Paul/footsteps/appear/step4.wav"}}, 
+]
+
+[frames.34]
+tags = [
+{name="so", data={sound_file="Paul/footsteps/appear/step3.wav"}}, 
+]
+
+[frames.1]
+tags = [
+{name="so", data={sound_file="Paul/footsteps/appear/step1.wav"}}, 
+]
+
+[frames.17]
+tags = [
+{name="so", data={sound_file="Paul/footsteps/appear/step2.wav"}}, 
+]
+

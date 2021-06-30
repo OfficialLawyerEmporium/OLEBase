@@ -1,0 +1,15 @@
+Ripped by Elias
+Buttons and Edits by Balance
+Thanks to CaptainSwag101 for textures
+
+Contact me on Discord for any concerns: Elias#0909
+
+v1.0
+Armie and Sarge were created
+
+v.1.1
+Armie's Normal(a) and Normal(b) fixed.
+
+v.1.2
+Armie's emotes have all been Optimized
+Sarge's emotes without a Pre don't play the Sfx automatically. (Changed the '1' to a '0')
