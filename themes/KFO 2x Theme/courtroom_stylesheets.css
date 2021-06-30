@@ -1,0 +1,36 @@
+QLabel {
+	color:white;
+	background-color:transparent;
+}
+
+QCheckBox {
+	color:white;
+	background-color:transparent;
+}
+
+QComboBox {
+	border: 1px solid rgba(255, 0, 255, 150);
+	background-color: darkgray;
+	color: black;
+	border-radius: 3px;
+	border-color: black
+}
+
+QAbstractItemView {
+	border: 0px solid darkgray;
+	background-color: darkgray;
+	color: black;
+	border-radius: 0px;
+	selection-background-color: darkgreen;
+}
+
+QListView {
+	color: black;
+	background-color:darkgray;
+	selection-background-color: darkgreen;
+}
+
+QLineEdit {
+	color:white;
+	background-color:dimgray;
+}
