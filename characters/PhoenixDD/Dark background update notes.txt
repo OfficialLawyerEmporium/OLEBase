@@ -1,0 +1,14 @@
+To add the dark background stuff:
+
+[Time]
+potatodespair = 20
+potatodespairbg = 30
+thoughtroute = 60
+thoughtroutebg = 64
+
+w = potato#potatodespair#slowlycreeping#1#
+x = potato#potatodespairbg#slowlycreeping#1#
+y = thought#thoughtroute#deepthought#1#
+z = thought#thoughtroutebg#deepthought#1#
+
+LUPADIM NOTE: Those are not added by default on the char.ini because DD Phoenix already has 20 emotes
