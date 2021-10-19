@@ -1,0 +1,17 @@
+Ripped by: JonasP#3184
+Assembled by: Luna16#8943
+Edits by: 
+Char Ini by: Luna16#8943
+Buttons by: Luna16#8943
+--------------------
+
+
+v1.0 31/05/2020
+
+- Foxy was created.
+
+v1.2 4/07/2020
+
+- Added Missing button.
+- Fixed Fan emote, Heel emote.
+- Fixed damage_Tn
