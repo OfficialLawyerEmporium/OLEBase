@@ -1,0 +1,8 @@
+QLineEdit {
+	color:white;
+	background-color:transparent;
+}
+
+QHeaderView::section {
+    background-color: darkgray;
+}

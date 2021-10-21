@@ -1,0 +1,30 @@
+QFrame{
+	border: 0px
+}
+
+QScrollBar {
+  height: 0px;
+  width: 0px;
+}
+
+QLineEdit {
+	color: #328CBD;
+	background-color:transparent;
+	border: 0px;
+}
+
+QHeaderView::section {
+    color:white;
+    background-color: #328CBD;
+}
+
+QProgressBar::chunk {
+     background-color: #328CBD;
+ }
+
+QProgressBar {
+     border: 0px solid grey;
+     border-radius: 0px;
+     color: #328CBD;
+     background-color: white;
+ }

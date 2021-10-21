@@ -1,0 +1,60 @@
+QFrame {
+	color: black;
+	background-color:transparent;
+}
+AOClockLabel {
+	border: 1px solid rgba(255, 255, 255, 135);
+	border-radius: 2px;
+	background-color: #328CBD;
+	padding: 0px;
+}
+
+QCheckBox {
+	color:white;
+	background-color:transparent;
+}
+
+QComboBox {
+	border:white;
+	border-radius: 3px;
+	background-color:#328CBD;
+	color: white;
+}
+
+QAbstractItemView {
+	border: 0px transparent;
+	background-color: transparent;
+	color: white;
+	border-radius: 0px;
+	selection-background-color: #328CBD;
+}
+
+QListView {
+	color:#328CBD;
+	border: 0px;
+	background-color: white;
+	selection-background-color: #FFC321;
+}
+
+QLineEdit {
+	color:black;
+	background-color:transparent;
+	border: 0px solid #328CBD;
+}
+
+QSlider::handle:horizontal { 
+	background-color: #328CBD; 
+}
+
+QScrollBar {
+  height: 0px;
+  width: 0px;
+}
+
+AOCharButton {
+    color: White;
+    font: bold 14px "EB Garamond";
+    border: 0px solid black;
+    border-radius: 7px;
+    background-color: grey;
+}
