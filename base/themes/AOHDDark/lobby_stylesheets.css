@@ -16,7 +16,21 @@ QLineEdit {
 QHeaderView::section {
     color:white;
     background-color: #1B1B1B;
+	border: 10px;
 }
+
+QHeaderView::section:first {
+	border-right: 1px solid white;
+}
+
+QHeaderView::down-arrow {
+    background-color: transparent;
+}
+
+QHeaderView::up-arrow {
+    background-color: transparent;
+}
+
 
 QProgressBar::chunk {
      background-color: white;

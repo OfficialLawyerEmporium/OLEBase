@@ -10,12 +10,113 @@ AOClockLabel {
 	padding: 0px;
 }
 
+/****************************************************************/
+
 QCheckBox {
+	font-family: M Ying Hei HK W4;
 	color:white;
-	background-color:transparent;
+	background-color: #transparent;
+	border-radius: 2px;
 }
 
+QCheckBox::indicator:hover{
+	font-family: M Ying Hei HK W4;
+	border: 1px solid white;
+	background-color: #FFC321;
+	border-radius: 2px;
+}
+
+QCheckBox::indicator:checked{
+	font-family: M Ying Hei HK W4;
+	border: 1px solid white;
+	background-color: #1B1B1B;
+	border-radius: 2px;
+}
+
+QCheckBox::indicator:checked:pressed{
+	font-family: M Ying Hei HK W4;
+	background-color: #1B1B1B;
+	border-radius: 2px;
+}
+
+QCheckBox::indicator:checked:hover{
+	font-family: M Ying Hei HK W4;
+	border: 1px solid white;
+	background-color: #FFC321;
+	border-radius: 2px;
+}
+
+/****************************************************************/
+
+QPushButton#ui_evidence_image_button{
+	background-color: #1B1B1B;
+	font-family: M Ying Hei HK W4;
+	color: white;
+	border-radius: 2px;
+	border: 1px solid white;
+}
+
+QPushButton::hover#ui_evidence_image_button{
+	background-color: #FFC321;
+	font-family: M Ying Hei HK W4;
+	color: white;
+	border-radius: 2px;
+	border: 1px solid white;
+}
+
+QPushButton#ui_ooc_toggle{
+	font-family: M Ying Hei HK W4;
+	background-color: #1B1B1B;
+	color: white;
+	border-radius: 2px;
+	border: 1px solid white;
+}
+
+QPushButton::hover#ui_ooc_toggle{
+	font-family: M Ying Hei HK W4;
+	background-color: #FFC321;
+	color: white;
+	border-radius: 2px;
+	border: 1px solid white;
+}
+
+QPushButton#ui_spectator{
+	font-family: M Ying Hei HK W4;
+	background-color: #1B1B1B;
+	color: white;
+	border-radius: 2px;
+	border: 1px solid white;
+}
+
+QPushButton::hover#ui_spectator{
+	font-family: M Ying Hei HK W4;
+	background-color: #FFC321;
+	color: white;
+	border-radius: 2px;
+	border: 1px solid white;
+}
+
+QPushButton#ui_back_to_lobby{
+	font-family: M Ying Hei HK W4;
+	background-color: #1B1B1B;
+	color: white;
+	border-radius: 2px;
+	border: 1px solid white;
+}
+
+QPushButton::hover#ui_back_to_lobby{
+	font-family: M Ying Hei HK W4;
+	background-color: #FFC321;
+	color: white;
+	border-radius: 2px;
+	border: 1px solid white;
+}
+
+
+/****************************************************************/
+
 QComboBox {
+	font-family: M Ying Hei HK W4;
 	border:white;
 	border-radius: 3px;
 	background-color:#1B1B1B;
@@ -23,6 +124,7 @@ QComboBox {
 }
 
 QAbstractItemView {
+	font-family: M Ying Hei HK W4;
 	border: 0px transparent;
 	background-color: transparent;
 	color: white;
@@ -31,6 +133,7 @@ QAbstractItemView {
 }
 
 QListView {
+	font-family: M Ying Hei HK W4;
 	color: white;
 	border: 0px;
 	background-color: #1B1B1B;
@@ -38,16 +141,45 @@ QListView {
 }
 
 QLineEdit {
+	font-family: M Ying Hei HK W4;
 	color:white;
 	background-color:transparent;
 	border: 0px solid #328CBD;
 }
 
-QSlider::handle:horizontal { 
-	background-color: gray; 
+QLineEdit#ui_evidence_name{
+	font-family: FOT-ModeMinALarge Std R;
+	color:black;
+	background-color:transparent;
+	border: 0px solid #328CBD;
 }
 
-QScrollBar {
-  height: 0px;
-  width: 0px;
+QSlider::handle:horizontal { 
+	background-color: #1B1B1B;
+    border-radius: 5px;	
+	border: 2px solid white;
+}
+
+QSlider::groove:horizontal { 
+	color: #F6F6F6;
+}
+
+QScrollBar:horizontal {
+    border: 0px black;
+    background: white;
+    height: 0px;
+}
+
+ QScrollBar:vertical {
+     border: 0px black;
+     background: #F6F6F6;
+     width: 7px;
+ }
+ 
+QScrollBar::handle:vertical {
+    background: #1B1B1B;
+	border-left: 1px solid #F6F6F6;
+	border-right: 1px solid #F6F6F6;
+	border-top: 0px solid #F6F6F6;
+	border-bottom: 0px solid #F6F6F6;
 }
