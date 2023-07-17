@@ -1,0 +1,8 @@
+# Windows
+Thumbs.db
+[Dd]esktop.ini
+*.lnk
+
+# Source files
+*.pdn
+*.xcf

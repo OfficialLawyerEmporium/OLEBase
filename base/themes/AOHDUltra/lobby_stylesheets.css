@@ -1,0 +1,49 @@
+QFrame{
+	border: 0px
+}
+
+QHeaderView::section:first {
+  qproperty-maximumSectionSize: 100px;
+  qproperty-defaultSectionSize: 20px;
+}
+
+QScrollBar {
+  height: 0px;
+  width: 0px;
+}
+
+QLineEdit {
+	color: #328CBD;
+	background-color:transparent;
+	border: 0px;
+}
+
+QHeaderView::section {
+    color:white;
+    background-color: #328CBD;
+	minimumSectionSize: 50px;
+	border: 10px;
+}
+
+QHeaderView::section:first {
+	border-right: 1px solid #F6F6F6;
+}
+
+QHeaderView::down-arrow {
+    background-color: transparent;
+}
+
+QHeaderView::up-arrow {
+    background-color: transparent;
+}
+
+QProgressBar::chunk {
+     background-color: #328CBD;
+ }
+
+QProgressBar {
+     border: 0px solid grey;
+     border-radius: 0px;
+     color: #328CBD;
+     background-color: #F8F5F2;
+ }
