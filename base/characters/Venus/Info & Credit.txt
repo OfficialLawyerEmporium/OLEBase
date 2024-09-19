@@ -1,8 +1,14 @@
+Original rip by Ellie
+Fixes by Axiz
+Re-rendered and more fixes by jooj11
+
+=== Old Credits ===
+
 Ripped by Elias
 Buttons and sorting by Balance
 References by VLS
 
-Contact me on Discord for any concerns: Elias#0909
+Contact me on Discord for any concerns: Ellie#7777
 
 v1.0 (Update 18)
 Venus was Created
