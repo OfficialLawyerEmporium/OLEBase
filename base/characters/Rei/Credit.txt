@@ -1,1 +1,22 @@
-Ripped, compiled and recorded by Trick!
+EDITOR'S NOTE:
+You are free to take this rip and apply it to your own server or any server, just please ask permission from me by sending me a message to my contact details below. If you don't feel like it, the least you could do is take this ripped character including this Credit.txt file, as it is much appreciated for me and the rest who worked so hard on it. Thank you! 
+-Ellie
+
+CREDITS:
+Textures, motions and buttons by me.
+Camera made by Kathy.
+Model provided by In1tiate.
+Quality Assurance by Axiz.
+
+
+CONTACT ME FOR QUESTIONS:
+Discord: ellie#7777
+Reddit: u/Lyraotic
+
+
+CHANGELOG:
+v1.0 
+- Rei Membami rip created
+
+v1.1
+- AMade and added the coolest SamuRei emotes ever (Axiz)
