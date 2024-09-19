@@ -1,3 +1,18 @@
-3DS Max recorded and rendered by Elias.
-Project references, and tutorials are done by Axis of Virtual Lawyer Simulator (VLS).
-99% of credit goes to Axis and his friend Noelle from VLS.
+EDITOR'S NOTE:
+You are free to take this rip and apply it to your own server or any server, just please ask permission from me by sending me a message to my contact details below. If you don't feel like it, the least you could do is take this ripped character including this Credit.txt file, as it is much appreciated for me and the rest who worked so hard on it. Thank you! 
+-Ellie
+
+CREDITS:
+Rips, textures, sound effects, and buttons by me.
+Unfinished model provided by Axiz
+Quality Assurance by Axiz.
+
+
+CONTACT ME FOR QUESTIONS:
+Discord: ellie#7777
+Reddit: u/Lyraotic
+
+
+CHANGELOG:
+v1.0 (February 09, 2023)
+- Ellen rip created
