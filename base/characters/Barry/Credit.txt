@@ -1,0 +1,4 @@
+Caidin ripped by Tidiestflyer for VLS (Virtual Lawyer Simulator)
+
+Ported to CC by GuyFugs
+Buttons done by GuyFugs
