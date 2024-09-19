@@ -1,0 +1,16 @@
+Ripped and recorded by Axiz#0235 from the Virtual Lawyer Simulator ripping group.
+Mood Matrix texture provided by SomeGirl#3877.
+Character assembly by Axiz#2035 and Ellie#777.
+Superobjection, Dual Destinies defense anims and error fixes thanks to jooj11#7515
+Witness Athena entirely ripped and assembled by Axiz#2035
+Ported from VLS by MarkBlkWth (Discord: markblkwth).
+
+=
+
+09/09/22 - First version, only including defense and counsel emotes, witness later
+
+09/15/22 - Second version, includes new emotes and fixes
+
+09/24/22 - Third version, includes some Dual Destinies emotes, fixes, witness animations, and more customs added
+
+-Axiz#0235
