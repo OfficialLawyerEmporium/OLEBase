@@ -1,0 +1,19 @@
+EDITOR'S NOTE:
+You are free to take this rip and apply it to your own server or any server, just please ask permission from me by sending me a message to my contact details below. If you don't feel like it, the least you could do is take this ripped character including this Credit.txt file, as it is much appreciated for me and the rest who worked so hard on it. Thank you! 
+-Ellie
+
+CREDITS:
+The model itself, rips, textures, sound effects, and buttons by Ellie
+Quality Assurance by Axiz
+
+
+CONTACT ME FOR QUESTIONS:
+Discord: ellie.chan
+Reddit: u/Lyraotic
+
+
+CHANGELOG:
+v1.0 (August 28, 2022)
+- Newman rip created
+
+Ported to Case Café by jooj11, Kelp and Sema.
