@@ -22,7 +22,7 @@ QCheckBox {
 
 QComboBox {
 	border: 1px solid rgba(255, 0, 255, 150);
-	background-color: darkgray;
+	background-color: #5394ea;
 	color: black;
 	border-radius: 3px;
 	border-color: black
@@ -38,9 +38,10 @@ QAbstractItemView {
 
 QListView {
 	color: black;
-	background-color:darkgray;
+	background-color:#33c547;
 	selection-background-color: darkgreen;
 }
+
 
 QLineEdit {
 	color: black;
