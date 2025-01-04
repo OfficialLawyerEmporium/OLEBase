@@ -3,6 +3,18 @@ QLabel {
 	background-color:transparent;
 }
 
+QFrame {
+	color:white;
+	background-color:transparent;
+}
+
+AOClockLabel {
+	border: 1px solid rgba(255, 255, 255, 135);
+	border-radius: 2px;
+	background-color: rgba(0, 0, 7, 135);
+	padding: 0px;
+}
+
 QCheckBox {
 	color:white;
 	background-color:transparent;
@@ -18,7 +30,7 @@ QComboBox {
 
 QAbstractItemView {
 	border: 0px solid darkgray;
-	background-color: darkgray;
+	background-color: transparent;
 	color: black;
 	border-radius: 0px;
 	selection-background-color: darkgreen;
@@ -32,5 +44,5 @@ QListView {
 
 QLineEdit {
 	color: black;
-	background-color:dimgray;
+	background-color:transparent;
 }
