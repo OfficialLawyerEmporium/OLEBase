@@ -1,1 +1,3 @@
 The Bomb overlay needs to be paired with the character to have Bomb and Tonate appear simultaneously.
+
+Alternatively, you can use the effects dropdown to produce a similar effect.

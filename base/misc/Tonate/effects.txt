@@ -1,0 +1,72 @@
+; Version of the configuration file
+[version]
+major = 2
+
+; index of the effect for sorting
+[0]
+; The name of the effect
+name = realization
+; Sound to play for this effect
+sound = sfx-realization
+; Whether or not to delete the image once it's done playing. Ignored if loop=true
+cull = true
+; Which layer it's going to be on. Possible options:
+; under - under the character
+; character - over the character
+; over - over everything in IC
+; chat - over the chat box and other UI.
+layer = chat
+; Should we loop this effect?
+loop = false
+; Maximum duration for this effect in miliseconds. Put at 0 for no max letting the full animation to play out.
+; Useful for single-image effects, such as realization flash.
+max_duration = 60
+; Should we respect the character's flip tick box and flip with them?
+respect_flip = false
+; Should we respect the character's offset and offset with them?
+respect_offset = false
+; Should we use smooth (bilinear) or pixel (nearest neighbor) scaling algorithm?
+scaling = smooth
+; Once we play the effect, should it remain in the effect dropdown still?
+sticky = false
+; Should we stretch the effect across the viewport?
+stretch = true
+
+[1]
+name = hearts
+sound = sfx-squee
+cull = true
+layer = character
+loop = false
+max_duration = 0
+respect_flip = true
+respect_offset = true
+scaling = smooth
+sticky = false
+stretch = false
+
+[2]
+name = reaction
+sound = sfx-reactionding
+cull = false
+layer = character
+loop = true
+max_duration = 0
+respect_flip = true
+respect_offset = true
+scaling = smooth
+sticky = true
+stretch = false
+
+[3]
+name = impact
+sound = sfx-fan
+cull = true
+layer = over
+loop = false
+max_duration = 0
+respect_flip = true
+respect_offset = true
+scaling = smooth
+sticky = false
+stretch = false
