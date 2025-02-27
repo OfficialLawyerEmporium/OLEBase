@@ -1,6 +1,7 @@
 Since AO (at the time of writing) lacks a proper overlay system, Geiru's last two balloons have been set up as effects.
 
-You can use emotes 51 and 52 (Newballoon-Cake and Newballoon-Kitty) paired with their respective "Appear" effect to summon each balloon. Afterwards, use her "Balloon-Dog" emotes (36-50) paired with the right non-Appear/Idle effect (the effects are stickied, so you shouldn't have to select them every time).
+You can use emotes 51 and 52 (Newballoon-Cake and Newballoon-Kitty) paired with their respective "Appear" effect to summon each balloon. 
+Afterwards, use her "Balloon-Dog" emotes (36-50) paired with the right non-Appear/Idle effect (the effects are stickied, so you shouldn't have to select them every time).
 
 For the best results, keep "Immediate" toggled on. This will ensure effects stay on screen while preanimations play.
 

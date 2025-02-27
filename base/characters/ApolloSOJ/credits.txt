@@ -7,3 +7,6 @@ Like Sasha, this was also a headache, but not nearly as much as Sasha. At least 
 Merry Christmas!
 
 -Axiz
+
+-----
+Feb-2025: pointing-to-normal animation corrected by Trite
