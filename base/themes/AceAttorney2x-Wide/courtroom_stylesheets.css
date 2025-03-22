@@ -32,7 +32,8 @@ QAbstractItemView {
 
 QListView {
 	color: black;
-	background-color: white;
+	background-color: darkgray;
+	border: 1px solid gainsboro;
 	selection-background-color: darkgreen;
 }
 
