@@ -1,0 +1,3 @@
+seconds = true
+loop_start=47.428
+loop_end=100.941
